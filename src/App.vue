@@ -1,21 +1,23 @@
 <template>
   <div id="app">
-    <p>{{msg}}</p>
-    <router-view></router-view>
+    <router-view/>
+    <Homepage/>
   </div>
 </template>
 <script type="text/ecmascript-6">
+  import Homepage from './components/Homepage'
+
   export default {
     name: "App",
-    data() {
-      return {
-        msg: 'app.vue'
-      }
+    components: {
+      Homepage
     }
   }
 </script>
 <style scoped>
-  p {
-    color: crimson;
+  #app {
+    width: 100%;
+    height: 100%;
   }
 </style>
+

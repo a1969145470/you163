@@ -1,7 +1,507 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="976d05b0-ab48-4e9c-82e0-46d5f88aeba2" name="默认更改列表" comment="" />
+    <list default="true" id="976d05b0-ab48-4e9c-82e0-46d5f88aeba2" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/px2rem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/px2rem.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/lib/import-builder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/lib/import-injector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/lib/is-module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/asserts/assertNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/asserts/generated/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/builders/builder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/builders/flow/createTypeAnnotationBasedOnTypeof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/builders/flow/createUnionTypeAnnotation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/builders/generated/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/builders/react/buildChildren.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/clone/clone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/clone/cloneDeep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/clone/cloneWithoutLoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/addComment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/addComments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/inheritInnerComments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/inheritLeadingComments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/inheritTrailingComments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/inheritsComments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/removeComments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/constants/generated/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/ensureBlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/gatherSequenceExpressions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toBindingIdentifierName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toBlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toComputedKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toExpression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toIdentifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toKeyAlias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toSequenceExpression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toStatement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/valueToNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/es2015.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/experimental.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/misc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/typescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/modifications/appendToMemberExpression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/modifications/flow/removeTypeDuplicates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/modifications/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/modifications/prependToMemberExpression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/modifications/removeProperties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/modifications/removePropertiesDeep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/retrievers/getBindingIdentifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/retrievers/getOuterBindingIdentifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/traverse/traverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/traverse/traverseFast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/utils/inherit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/utils/react/cleanJSXElementLiteralChild.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/utils/shallowEqual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/buildMatchMemberExpression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/generated/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isBinding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isBlockScoped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isImmutable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isLet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isNodesEquivalent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isReferenced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isScope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isSpecifierDefault.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isValidES3Identifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isValidIdentifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isVar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/matchesPattern.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/react/isCompatTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/react/isReactComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/node_modules/to-fast-properties/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/node_modules/to-fast-properties/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/node_modules/to-fast-properties/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/node_modules/to-fast-properties/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/generateTypeHelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/generators/generateAsserts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/generators/generateBuilders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/generators/generateConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/generators/generateValidators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/formatBuilderName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/formatCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/lowerFirst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/babel-plugin-component/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/babel-plugin-component/lib/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/babel-plugin-component/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/babel-plugin-component/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/parse/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/compress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/identity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/source-map-support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/.jscs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/extend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/_copy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/output.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/fs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/graceful-fs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/test/max-open.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/test/open.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/test/readdir-sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/node_modules/graceful-fs/test/write-then-read.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs-extra/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsonfile/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsonfile/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsonfile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsonfile/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsonfile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsonfile/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lib-flexible/flexible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lib-flexible/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/actionsheet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/actionsheet/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/badge/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/badge/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/button/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/cell-swipe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/cell-swipe/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/cell/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/cell/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/checklist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/checklist/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/datetime-picker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/datetime-picker/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/field/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/field/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/font/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/font/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/header/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/index-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/index-list/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/index-section/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/index-section/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/indicator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/indicator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/infinite-scroll/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/infinite-scroll/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/lazyload/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/lazyload/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/loadmore/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/loadmore/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/message-box/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/message-box/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/mint-ui.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/navbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/navbar/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/palette-button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/palette-button/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/picker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/picker/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/popup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/popup/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/progress/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/progress/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/radio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/radio/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/range/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/range/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/search/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/spinner/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/spinner/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/swipe-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/swipe-item/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/swipe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/swipe/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/switch/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/switch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tab-container-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tab-container-item/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tab-container/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tab-container/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tab-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tab-item/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tabbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/tabbar/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/toast/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/lib/toast/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/actionsheet/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/actionsheet/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/actionsheet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/actionsheet/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/actionsheet/src/actionsheet.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/badge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/badge/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/badge/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/badge/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/badge/src/badge.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/button/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/button/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/button/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/button/src/button.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell-swipe/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell-swipe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell-swipe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell-swipe/src/cell-swipe.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/cell/src/cell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/checklist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/checklist/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/checklist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/checklist/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/checklist/src/checklist.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/datetime-picker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/datetime-picker/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/datetime-picker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/datetime-picker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/datetime-picker/src/datetime-picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/field/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/field/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/field/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/field/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/field/src/field.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/header/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/header/src/header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-list/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-list/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-list/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-list/src/index-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-section/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-section/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-section/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-section/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/index-section/src/index-section.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/indicator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/indicator/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/indicator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/indicator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/indicator/src/indicator.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/infinite-scroll/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/infinite-scroll/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/infinite-scroll/src/directive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/infinite-scroll/src/infinite-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/lazyload/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/lazyload/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/lazyload/src/lazyload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/loadmore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/loadmore/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/loadmore/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/loadmore/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/loadmore/src/loadmore.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/message-box/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/message-box/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/message-box/src/message-box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/message-box/src/message-box.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/navbar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/navbar/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/navbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/navbar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/navbar/src/navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/palette-button/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/palette-button/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/palette-button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/palette-button/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/palette-button/src/palette-button.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/src/draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/src/picker-slot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/src/picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/picker/src/translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/popup/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/popup/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/popup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/popup/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/popup/src/popup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/progress/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/progress/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/progress/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/progress/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/progress/src/progress.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/radio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/radio/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/radio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/radio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/radio/src/radio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/range/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/range/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/range/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/range/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/range/src/draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/range/src/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/search/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/search/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/search/src/search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/spinner/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/spinner/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/swipe-item/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/swipe-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/swipe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/swipe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/swipe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/swipe/src/swipe-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/swipe/src/swipe.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/switch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/switch/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/switch/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/switch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/switch/src/switch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container-item/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container-item/src/tab-container-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container/_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-container/src/tab-container.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-item/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-item/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-item/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tab-item/src/tab-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tabbar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tabbar/cooking.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tabbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tabbar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/tabbar/src/tabbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/toast/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/toast/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/toast/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/packages/toast/src/toast.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/assets/font/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/assets/loading-spin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/mixins/emitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/style/empty.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/style/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/style/var.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/utils/clickoutside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/utils/dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/utils/merge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/utils/popup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mint-ui/src/utils/popup/popup-manager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/natives/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/natives/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/natives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/natives/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem-loader/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem-loader/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem-loader/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem-loader/lib/px2rem-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem-loader/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem-loader/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/bin/px2rem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/lib/px2rem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/.bin/has-ansi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/.bin/has-ansi.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/.bin/strip-ansi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/.bin/strip-ansi.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/.bin/supports-color" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/.bin/supports-color.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/ansi-regex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/ansi-regex/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/chalk/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/chalk/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/chalk/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/commander/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/commander/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/commander/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/commander/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/has-ansi/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/has-ansi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/has-ansi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/has-ansi/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/strip-ansi/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/strip-ansi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/strip-ansi/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/supports-color/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/supports-color/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/node_modules/supports-color/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/test/assets/test.2x.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/test/assets/test.3x.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/test/output/default.1x.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/test/output/default.2x.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/test/output/default.3x.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/test/output/default.rem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/px2rem/test/px2rem.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/raf.js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/raf.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/raf.js/raf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/raf.js/raf.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/.circleci/setup_puppeteer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/src/lazy-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/src/lazy-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/src/lazy-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/src/lazy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/src/listener.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/test/test-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/types/lazyload.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/types/test/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/types/test/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/types/vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/vue-lazyload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Homepage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/img/茶壶.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navigation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/personal/personal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/A.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FooterGuide/FooterGuide.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/B.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,23 +513,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.vue">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Homepage.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="411">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -39,10 +536,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue" />
-        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="XSLT Stylesheet" />
+        <option value="Vue Single File Component" />
+        <option value="CSS File" />
+        <option value="Vue" />
       </list>
     </option>
   </component>
@@ -59,25 +558,35 @@
       <list>
         <option value="$PROJECT_DIR$/src/components/A.vue" />
         <option value="$PROJECT_DIR$/src/components/B.vue" />
-        <option value="$PROJECT_DIR$/src/App.vue" />
-        <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/001.html" />
         <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
         <option value="$PROJECT_DIR$/src/router/index.js" />
         <option value="$PROJECT_DIR$/src/pages/cart/cart.vue" />
         <option value="$PROJECT_DIR$/src/pages/cateList/cateList.vue" />
         <option value="$PROJECT_DIR$/src/pages/Find/Find.vue" />
-        <option value="$PROJECT_DIR$/src/routes/index.js" />
         <option value="$PROJECT_DIR$/src/pages/login/login.vue" />
         <option value="$PROJECT_DIR$/../git/git.md" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/../真迹/真迹/H5其他新增标签.md" />
+        <option value="$PROJECT_DIR$/src/components/navigation.vue" />
+        <option value="$PROJECT_DIR$/src/pages/personal/personal.vue" />
+        <option value="$PROJECT_DIR$/src/routes/index.js" />
+        <option value="$PROJECT_DIR$/static/css/reset.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/pages/Home/Home.vue" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/components/FooterGuide/FooterGuide.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/build/utils.js" />
+        <option value="$PROJECT_DIR$/src/components/Homepage.vue" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="644" />
-    <option name="width" value="1283" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="434" />
+    <option name="y" value="5" />
+    <option name="width" value="1334" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,13 +595,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="you163" type="b2602c69:ProjectViewProjectNode" />
               <item name="you163" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="you163" type="b2602c69:ProjectViewProjectNode" />
+              <item name="you163" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="you163" type="b2602c69:ProjectViewProjectNode" />
@@ -109,17 +622,19 @@
               <item name="you163" type="b2602c69:ProjectViewProjectNode" />
               <item name="you163" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="you163" type="b2602c69:ProjectViewProjectNode" />
               <item name="you163" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,16 +642,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\张善犇\Desktop\you163\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="ts.external.directory.path" value="E:\WebStorm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\张善犇\Desktop\you163\src\components\img" />
       <recent name="C:\Users\张善犇\Desktop\you163\src\components" />
     </key>
   </component>
@@ -175,18 +692,21 @@
       <workItem from="1558317530730" duration="7285000" />
       <workItem from="1558332684419" duration="666000" />
       <workItem from="1558333711218" duration="7033000" />
-      <workItem from="1558341409813" duration="3528000" />
+      <workItem from="1558341409813" duration="6134000" />
+      <workItem from="1558406704272" duration="2875000" />
+      <workItem from="1558417875814" duration="8704000" />
+      <workItem from="1558436253596" duration="7364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18512000" />
+    <option name="totallyTimeSpent" value="40061000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="434" y="5" width="1334" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16438356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2199074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -202,13 +722,13 @@
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3290461" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.33154505" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.33152762" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3068273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15015806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -220,11 +740,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32939914" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3290461" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32832617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -258,6 +778,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
@@ -267,26 +801,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/B.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/B.vue" />
     <entry file="file://$PROJECT_DIR$/src/components/Home.vue" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vue/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
@@ -295,13 +816,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/001.html" />
-    <entry file="file://$PROJECT_DIR$/node_modules/vue-router/types/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -309,25 +823,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/A.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/A.vue" />
     <entry file="file://$PROJECT_DIR$/config/dev.env.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/config/index.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/cart/cart.vue">
       <provider selected="true" editor-type-id="text-editor">
@@ -350,43 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/login/login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/尚硅谷学习资料/第三阶段课堂案例/2-git_video/git-stu/课件/git常用命令总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -405,6 +869,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../真迹/真迹/H5其他新增标签.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/personal/personal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/navigation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-loader/lib/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="584" column="10" selection-start-line="584" selection-start-column="10" selection-end-line="584" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/尚硅谷学习资料/第五阶段小程序/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue/types/options.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="101" column="2" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/img/茶壶.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -415,10 +962,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.vue">
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-router/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mint-ui/lib/mint-ui.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="1019" column="2" selection-start-line="1019" selection-start-column="2" selection-end-line="1019" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/FooterGuide/FooterGuide.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/尚硅谷学习资料/第五阶段小程序/适配方案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="51" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1599">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Homepage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
